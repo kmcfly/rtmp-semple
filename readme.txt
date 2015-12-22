@@ -18,3 +18,6 @@ It contains following projects:
 simplest_librtmp_receive: Receive RTMP streams and save as FLV file.
 simplest_librtmp_send_flv: Stream FLV file to RTMP streaming server.
 simplest_librtmp_send264: Stream H.264 raw data to RTMP streaming server.
+
+
+add some by kmcfly 2015/12/22
