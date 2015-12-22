@@ -1,7 +1,7 @@
 最简单的基于LibRTMP的例子
 Simplest LibRTMP Example
 
-雷霄骅，张晖
+
 leixiaohua1020@126.com
 zhanghuicuc@gmail.com
 中国传媒大学/数字电视技术
